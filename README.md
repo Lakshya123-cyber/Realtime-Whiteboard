@@ -1,6 +1,6 @@
 # Realtime-Whiteboard
 This is a realtime collaborative whiteboard I made just to get an idea of the Node servers.
-I am not uploading the node_modules folder becuase it won't work unless you download it from your end.
+I am not uploading the node_modules folder because it won't work unless you download it from your end.
 
 To download that you need to first install Node.js from their website and then run the command on you terminal which is:
 ->npm init -y
